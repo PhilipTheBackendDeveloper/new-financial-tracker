@@ -13,16 +13,7 @@ const firebaseConfig = {
 }
 
 
-  akldfsjgkljskldfzgj's
-    klsafdgkjfkgsjlsdfjg
-jakjlskfzdg
-klklsjgdkljl;gsd
-kjgfklsjgkjl;jsfdhufsdl
-kajgsjkajopjadskljklj'sd
-  kjdfskgjkjsdgfjlksdfgjos;l
-kdfjsgkljfkds;sd
-kjfsdkgljsdkfgj
-
+  
 // Initialize Firebase
 const app = initializeApp(firebaseConfig)
 
