@@ -11,15 +11,7 @@ const firebaseConfig = {
   appId: "1:1063774958765:web:51420cb4621ebdd53e4224",
   measurementId: "G-3FFSS2EJ00",
 }
-dhjhdsfjklsjdfkjhkjdjklfjds
-jdfhgjhfkldsjgkljfklsdnglkjksg
-sjfdgjkhdfskjlgjklfjsgklj
-dfjsgnjkdfjsklgjklfdsjgkljksljg
-sbjdghjkskgjkjfskgjkjlsg
-fkjdskgkfjskjgkjfsgkjkjsg
-kljsfdkjgkdsfkgjkljsg
-skjgkjsgjk'lgks
-  kjshdfkjgklsjgkjkls
+
 shkjg;lskjkjs;k
 fshjkgkljskdlgjkjfsdkgj
 sdfhkjghskdkgklsdjfgk
