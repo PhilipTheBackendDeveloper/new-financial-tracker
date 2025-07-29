@@ -12,16 +12,7 @@ const firebaseConfig = {
   measurementId: "G-3FFSS2EJ00",
 }
 
-shkjg;lskjkjs;k
-fshjkgkljskdlgjkjfsdkgj
-sdfhkjghskdkgklsdjfgk
-sfdgkjhklgfskljklsjkgj
-jksgkjkdsfljkljsdfkljg;ks
-kkhjajgkjgkfdsk'gk
-  kfdshgkljfkdslgjplkgjfs
-kafdsjgkljsdklgj;lsdfkg
-agjdkljgk;lsdf;g'lksdf
-  kdfagkljsdfk;sj;lsdgk'
+
   akldfsjgkljskldfzgj's
     klsafdgkjfkgsjlsdfjg
 jakjlskfzdg
